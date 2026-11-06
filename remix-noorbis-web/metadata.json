@@ -1,8 +1,0 @@
-{
-  "name": "Remix Noorbis",
-  "description": "Un jeu  dans votre inventaire et progresser à travers les niveaux.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
